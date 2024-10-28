@@ -20,6 +20,8 @@
         <p class="text-gray-700">
             Saya seorang pelajar SMK jurusan RPL dengan minat dalam pengembangan perangkat lunak dan desain web. Saya suka mempelajari hal-hal baru dan selalu bersemangat untuk meningkatkan keterampilan saya.
         </p>
+        <a href="{{ route('about') }}">About</a>
+        <a href="{{ route('login')}}">Login</a>
     </section>
 
     <!-- Keterampilan -->
